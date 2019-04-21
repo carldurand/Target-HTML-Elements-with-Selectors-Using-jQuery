@@ -19,5 +19,5 @@ function makeList(arr) {
  * [ `<li class="text-warning">no-var</li>`,
  *   `<li class="text-warning">var-on-top</li>`, 
  *   `<li class="text-warning">linebreak</li>` ]
- **/
+ ***/
 const resultDisplayArray = makeList(result.failure);
