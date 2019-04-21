@@ -1,1 +1,1 @@
-Use parseInt() in the convertToInteger function so it converts the input string str into an integer, and returns it.
+-Use template literal syntax with backticks to display each entry of the result object's failure array. Each entry should be wrapped inside an li element with the class attribute text-warning, and listed within the resultDisplayArray.
